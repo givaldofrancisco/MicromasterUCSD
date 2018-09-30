@@ -1,2 +1,2 @@
 # MicromasterUCSD
-Codes and projectos about Micro Master from UC San Diego
+Codes and projects about Micro Master from UC San Diego
